@@ -1,0 +1,106 @@
+{
+    "continents":[
+        {
+            "id": "europe",
+            "name": "Europa",
+            "description": "O continente mais antigo.",
+            "about": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a peníunsula ocidental da Eurásia, a Europa geralmente  divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+            "country_amount": 50,
+            "language_amount": 60,
+            "cities_amount": 230,
+            "most_cities_amount": 27,
+            "banner_url": {
+                "swiper":  "https://images.unsplash.com/photo-1490642914619-7955a3fd483c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1493&q=80",
+                "page": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+            },
+            "cities": [
+                {
+                    "id": "london",
+                    "name": "Londres",
+                    "country": "Reino Unido",
+                    "country_flag": "https://cdn-icons-png.flaticon.com/512/197/197374.png",
+                    "city_image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+                },
+                {
+                    "id": "paris",
+                    "name": "Paris",
+                    "country": "França",
+                    "country_flag": "https://cdn-icons-png.flaticon.com/512/197/197560.png",
+                    "city_image": "https://images.unsplash.com/photo-1509299349698-dd22323b5963?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+                },
+                {
+                    "id": "rome",
+                    "name": "Roma",
+                    "country": "Itália",
+                    "country_flag": "https://cdn-icons-png.flaticon.com/512/197/197626.png",
+                    "city_image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1096&q=80"
+                },
+                {
+                    "id": "praga",
+                    "name": "Praga",
+                    "country": "República Tcheca",
+                    "country_flag": "https://cdn-icons-png.flaticon.com/512/197/197576.png",
+                    "city_image": "https://images.unsplash.com/photo-1458150945447-7fb764c11a92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+                },
+                {
+                    "id": "amsterda",
+                    "name": "Amsterdã",
+                    "country": "Holanda",
+                    "country_flag": "https://cdn-icons-png.flaticon.com/512/197/197441.png",
+                    "city_image": "https://images.unsplash.com/photo-1566075390964-69cf4aa8f931?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+                }
+            ]
+        },
+        {
+            "id": "oceania",
+            "name": "Oceania",
+            "description": "O menor continente e milhares de ilhas.",
+            "about": "A Oceania é um continente situado entre os oceanos Índico e Pacífico, a sudeste da Ásia. A maior parte de suas terras fica no Hemisfério Sul do planeta. É composto por 14 países e ilhas e territórios pertencentes a outros países, tanto oceânicos quanto de outros continentes. A maior e mais populosa das nações é a Austrália, que consiste também na principal economia do continente.",
+            "country_amount": 50,
+            "language_amount": 60,
+            "cities_amount": 230,
+            "most_cities_amount": 27,
+            "banner_url": {
+                "swiper": "https://images.unsplash.com/photo-1526959300019-11dd99a21233?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+                "page": "https://images.unsplash.com/photo-1548296404-93c7694b2f91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+            },
+            "cities": [
+                {
+                    "id": "london",
+                    "name": "Londres",
+                    "country": "Reino Unido",
+                    "country_flag": "https://cdn-icons-png.flaticon.com/512/197/197374.png",
+                    "city_image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+                },
+                {
+                    "id": "paris",
+                    "name": "Paris",
+                    "country": "França",
+                    "country_flag": "https://cdn-icons-png.flaticon.com/512/197/197560.png",
+                    "city_image": "https://images.unsplash.com/photo-1509299349698-dd22323b5963?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+                },
+                {
+                    "id": "rome",
+                    "name": "Roma",
+                    "country": "Itália",
+                    "country_flag": "https://cdn-icons-png.flaticon.com/512/197/197626.png",
+                    "city_image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1096&q=80"
+                },
+                {
+                    "id": "praga",
+                    "name": "Praga",
+                    "country": "República Tcheca",
+                    "country_flag": "https://cdn-icons-png.flaticon.com/512/197/197576.png",
+                    "city_image": "https://images.unsplash.com/photo-1458150945447-7fb764c11a92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+                },
+                {
+                    "id": "amsterda",
+                    "name": "Amsterdã",
+                    "country": "Holanda",
+                    "country_flag": "https://cdn-icons-png.flaticon.com/512/197/197441.png",
+                    "city_image": "https://images.unsplash.com/photo-1566075390964-69cf4aa8f931?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+                }
+            ]
+        }
+    ]
+}
